@@ -13,14 +13,12 @@ Version
 
 Current Version: v0.0.1
 
-Download Compiled: 
+Download Compiled: http://bit.ly/1sOS2Lt
 
 Development process
 ====================
-10/1/2014 GRMine started.
+10/1/2014 Starts the development of GRMiner App.
 
 10/1/2014 GRMiner App released V0.0.1.
 
-10/2/2014 GRMine opened profile at Github.
-
-10/2/2014 GRMine publish the code of the site and from the app to Github.
+10/2/2014 GRMine publish the code of the the app to Github.
