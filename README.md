@@ -17,8 +17,8 @@ Download Compiled: http://bit.ly/1sOS2Lt
 
 Development process
 ====================
-10/1/2014 Starts the development of GRMiner App.
+10/1/2014 GRMINE starts the development of GRMiner App.
 
-10/1/2014 GRMiner App released V0.0.1.
+10/1/2014 The GRMiner App has released V0.0.1.
 
-10/2/2014 GRMine publish the code of the the app to Github.
+10/2/2014 GRMine published the code of the the app to Github.
